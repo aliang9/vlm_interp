@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.28.0
+einops>=0.6.1
+pycocotools>=2.0.6
+protobuf==3.20.0
+Pillow>=9.5.0
+numpy>=1.24.3
+accelerate>=0.21.0
+tqdm>=4.65.0
+scipy>=1.10.1
+requests>=2.31.0
